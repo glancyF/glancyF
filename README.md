@@ -1,5 +1,5 @@
 Hi!
-My name is Valentin and I'm a web developer & student from Prague.  
+My name is Valentyn and I'm a web developer & computer science student.
 I enjoy building modern web applications and learning new technologies.  
 
 ---
