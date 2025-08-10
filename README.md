@@ -1,4 +1,4 @@
-Welcome to my page!  
+Hi!
 My name is Valentin and I'm a web developer & student from Prague.  
 I enjoy building modern web applications and learning new technologies.  
 
