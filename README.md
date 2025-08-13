@@ -15,6 +15,5 @@ I enjoy building modern web applications and learning new technologies.
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glancyF&layout=compact&theme=tokyonight&langs_count=10&include_forks=true&v=20250813)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=glancyF&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=glancyF&layout=compact&theme=tokyonight&langs_count=10&v=2
-)
