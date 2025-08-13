@@ -17,4 +17,4 @@ I enjoy building modern web applications and learning new technologies.
 
 
 ![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=glancyF&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=glancyF&layout=compact&theme=tokyonight&langs_count=10&v=2
-))
+)
