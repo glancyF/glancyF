@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My name is **Valentyn Deshel** (aka **Glancy**) — I'm a **web developer** and **computer science student**.  
+My name is **Valentyn Deshel** (aka **Glancy**) - I'm a **web developer** and **computer science student**.  
 I enjoy building **modern web applications**, exploring **backend technologies**, and learning something new every day. 🚀  
 
 ---
