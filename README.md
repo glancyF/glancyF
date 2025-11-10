@@ -30,7 +30,7 @@ I enjoy building **modern web applications**, exploring **backend technologies**
 
 - 💻 Focused on full-stack web development (PHP/Laravel, JS).  
 - 🎓 Currently studying **Computer Science** and working on web projects.  
-- 📬 Reach me on [GitHub](https://github.com/glancyF) or via linkedin (add in profile).  
+- 📬 Reach me on [My website](https://valentyndeshel.xyz) or via linkedin (add in profile).  
 
 ---
 
